@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 80B3FF #18bc9c 
+  primary: 18bc9c #80B3FF 
   primary-rgb: "24,288,156" #"128,179,255"
   secondary:  2c3e50 #FD6E8A
-  secondary-dark: A2122F #233140
+  secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
   copyright: Novoa R Davirson
   location: Location
   social: Around the Web
-  #credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Bogotá, Colombia
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
