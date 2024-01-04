@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: 80B3FF #18bc9c 
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary:  FD6E8A #2c3e50
+  secondary:  2c3e50 #FD6E8A
   secondary-dark: A2122F #233140
 
 # Footer settings
@@ -39,7 +39,7 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twiiter
+  - title: twitter
     url: https://twitter.com/davinson_novoa
   - title: facebook
     url: https://www.facebook.com/Davinson.novoa.R?mibextid=eHce3h
