@@ -4,8 +4,8 @@ email: Davinsonnovoaramirez@gmial.com
 url: https://github.com/DavinsonR/Portfolio
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Data Analyst - Data Scientist"
+meta_author: Novoa Davirson
 
 # Google webmaster tools
 google_verify:
@@ -25,30 +25,30 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 80B3FF #18bc9c 
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary:  FD6E8A #2c3e50
+  secondary-dark: A2122F #233140
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Novoa R Davirson
   location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: twiiter
+    url: https://twitter.com/davinson_novoa
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/Davinson.novoa.R?mibextid=eHce3h
+  #- title: stack-overflow
+   # url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+   # url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://davinsonr.github.io
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +56,7 @@ address:
   - line: Bogotá, Colombia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
